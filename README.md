@@ -1,7 +1,5 @@
 🌱 I’m currently focused on learning.
 
-![Cromero19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cromero19&show_icons=true&theme=dark)
-
 
 📫 How to reach me: 
 
