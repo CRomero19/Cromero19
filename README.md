@@ -1,4 +1,4 @@
-🌱 I’m currently focused on learning.
+Desenvolvedor Front-end HTML | CSS | JavaScript | React
 
 
 📫 How to reach me: 
