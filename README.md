@@ -1,4 +1,4 @@
-Desenvolvedor Front-end HTML | CSS | JavaScript | ReactJs | TypeScript
+Desenvolvedor Front-end HTML | CSS | JavaScript | ReactJs | TypeScript | PostgreSQL
 
 
 📫 How to reach me: 
