@@ -1,4 +1,4 @@
-Desenvolvedor Front-end HTML | CSS | JavaScript | ReactJs | TypeScript | PostgreSQL
+Desenvolvedor Front-end HTML | CSS | JavaScript | ReactJs | TypeScript | PostgreSQL | Python | Django
 
 
 📫 How to reach me: 
